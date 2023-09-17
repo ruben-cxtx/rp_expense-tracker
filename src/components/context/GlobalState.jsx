@@ -3,7 +3,7 @@ import AppReducer from "./AppReducer";
 
 const initialState = {
     transaction: [
-        {id: 1}
+        {text: 'food'}
     ]
 }
 
